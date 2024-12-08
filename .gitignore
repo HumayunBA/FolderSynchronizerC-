@@ -1,0 +1,5 @@
+# Ignore build and temporary files
+bin/
+obj/
+*.user
+*.suo
